@@ -18,7 +18,7 @@ local   all             postgres                                md5
 local   all             postgres                                peer
 ~~~
 
-### Populate the data base
+### Populate the database
 
 ~~~
 make setup-db
