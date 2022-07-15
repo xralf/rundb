@@ -8,7 +8,7 @@ This little REST API server project assumes a local deployment and uses PostgreS
 createdb -U postgres rundb
 ~~~
 
-This project assumes that the `hba.conf` file has this `md5` autehtication mode:
+This project assumes that the `hba.conf` file has this `md5` authentication mode:
 ~~~
 # Database administrative login by Unix domain socket
 local   all             postgres                                md5
